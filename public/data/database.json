@@ -1,0 +1,12 @@
+{
+  "categories": [{
+    "id": 1,
+    "name": "js",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ90PFxTsrzw7xh51nRf0eE5ZMM7Fq7m7QR-0pv4h5dA&s",
+    "creationAt": "05/05/2005",
+    "updatedAt": "09/11/2024"
+
+  }
+    
+  ]
+}
